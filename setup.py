@@ -21,13 +21,13 @@ plugin_version = "0.0.1"
 plugin_description = """Simple plugin to control Tapo Smartplug"""
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Tyfy"
+plugin_author = "ToMeXaS"
 
 # The plugin's author's mail address.
-plugin_author_email = "github@tyfy.com"
+plugin_author_email = "github@tomexas.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/Tyfy/OctoPrint-TapoSmartplug"
+plugin_url = "https://github.com/ToMeXaS/OctoPrint-TapoSmartplug"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
