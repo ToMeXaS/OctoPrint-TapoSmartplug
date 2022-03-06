@@ -1,5 +1,3 @@
-##  Screenshots
-
 ## Setup
 
 Install manually using this URL:
