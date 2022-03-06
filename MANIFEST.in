@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_taposmartplug/templates *
+recursive-include octoprint_taposmartplug/translations *
+recursive-include octoprint_taposmartplug/static *
